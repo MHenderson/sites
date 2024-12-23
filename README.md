@@ -12,7 +12,7 @@ My sites.
 - [mjh-energy-data](https://mjh-energy-data.netlify.app/) - my energy data.
 - [mjhdata](https://mjhdata.netlify.app/) - my homepage and blog.
 - [mjhdataviz](https://mjhdataviz.netlify.app/) - a gallery of my data visualisation work.
-- [quotations-viewer](https://mhenderson.shinyapps.io/quotations-viewer/) - browse quotations from books I've read. [src](https://gitlab.com/mjhds/quotations-viewer)
+- [quotations-viewer](https://mhenderson.shinyapps.io/quotations-viewer/) - browse quotations from books I've read.
 
 ## Mathematics
 
