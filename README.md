@@ -2,6 +2,10 @@
 
 My sites.
 
+## AI
+
+- [haiku-ai](https://fossil-harvest-mambo.glitch.me/) - broken, simplest possible ChatGPT wrapper crap.
+
 ## Data Science
 
 - [bookmark-viewer](https://mhenderson.shinyapps.io/bookmark-viewer/) - a Shiny app for browsing my bookmark collection.
@@ -13,10 +17,12 @@ My sites.
 - [mjhdata](https://mjhdata.netlify.app/) - my homepage and blog.
 - [mjhdataviz](https://mjhdataviz.netlify.app/) - a gallery of my data visualisation work.
 - [quotations-viewer](https://mhenderson.shinyapps.io/quotations-viewer/) - browse quotations from books I've read.
+- [reading-dashboard](http://rpubs.com/mhenderson/reading-dashboard) - a dashboard visualisation of the books I've read over the last few years.
 
 ## Mathematics
 
 - [coding-with-graphs](https://coding-with-graphs.netlify.app/) - an old blog site.
+- [graphs-collection](http://mhenderson.github.io/graphs-collection/) - a collection of graphs in a variety of formats.
 - [mols-generator](https://mols-generator.netlify.app/) - documentation site for the mols-generator app.
 - [room-squares](https://room-squares.netlify.app/) - a bibliography about Room squares.
  
