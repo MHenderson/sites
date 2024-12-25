@@ -18,6 +18,7 @@ My sites.
 - [mjhdataviz](https://mjhdataviz.netlify.app/) - a gallery of my data visualisation work.
 - [quotations-viewer](https://mhenderson.shinyapps.io/quotations-viewer/) - browse quotations from books I've read.
 - [reading-dashboard](http://rpubs.com/mhenderson/reading-dashboard) - a dashboard visualisation of the books I've read over the last few years.
+- [shinylive-demo](https://mhenderson.github.io/shinylive-demo/) - Hello, World for shinylive.
 
 ## Mathematics
 
