@@ -4,7 +4,9 @@ My sites.
 
 ## AI
 
-- [haiku-ai](https://fossil-harvest-mambo.glitch.me/) - broken, simplest possible ChatGPT wrapper crap.
+| Repository                                           | Repository                                               |
+| :--------------------------------------------------: | :------------------------------------------------------: |
+| [haiku-ai](https://fossil-harvest-mambo.glitch.me/)  | Broken, simplest possible ChatGPT wrapper crap.          |
 
 ## Data Science
 
