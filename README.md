@@ -26,10 +26,12 @@ My sites.
 
 ## Mathematics
 
-- [coding-with-graphs](https://coding-with-graphs.netlify.app/) - an old blog site.
-- [graphs-collection](http://mhenderson.github.io/graphs-collection/) - a collection of graphs in a variety of formats.
-- [mols-generator](https://mols-generator.netlify.app/) - documentation site for the mols-generator app.
-- [room-squares](https://room-squares.netlify.app/) - a bibliography about Room squares.
+| Repository                                                              | Description                                            |
+| :---------------------------------------------------------------------: | ------------------------------------------------------ |
+| [coding-with-graphs](https://coding-with-graphs.netlify.app/)           | An old blog site.                                      |
+| [graphs-collection](http://mhenderson.github.io/graphs-collection/)     | A collection of graphs in a variety of formats.        |
+| [mols-generator](https://mols-generator.netlify.app/)                   | Documentation site for the mols-generator app.         |
+| [room-squares](https://room-squares.netlify.app/)                       | A bibliography about Room squares.                     |
  
 ## Languages
 
