@@ -35,5 +35,7 @@ My sites.
  
 ## Languages
 
-- [bonho](https://bonho.netlify.app/) - a Korean numbers learning app.
+| Repository                                           | Description                                              |
+| :--------------------------------------------------: | -------------------------------------------------------- |
+| [bonho](https://bonho.netlify.app/)                  | A Korean numbers learning app.                           |
 
