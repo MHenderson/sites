@@ -1,14 +1,14 @@
-# sites
+# sites (17)
 
 My sites.
 
-## AI
+## AI (1)
 
 | Repository                                           | Description                                              |
 | :--------------------------------------------------: | -------------------------------------------------------- |
 | [haiku-ai](https://fossil-harvest-mambo.glitch.me/)  | Broken, simplest possible ChatGPT wrapper crap.          |
 
-## Data Science
+## Data Science (11)
 
 | Repository                                                              | Description                                                               |
 | :---------------------------------------------------------------------: | ------------------------------------------------------------------------- |
@@ -24,7 +24,7 @@ My sites.
 | [reading-dashboard](http://rpubs.com/mhenderson/reading-dashboard)      | A dashboard visualisation of the books I've read over the last few years. |
 | [shinylive-demo](https://mhenderson.github.io/shinylive-demo/)          | Hello, World for shinylive.                                               |
 
-## Mathematics
+## Mathematics (4)
 
 | Repository                                                              | Description                                            |
 | :---------------------------------------------------------------------: | ------------------------------------------------------ |
@@ -33,7 +33,7 @@ My sites.
 | [mols-generator](https://mols-generator.netlify.app/)                   | Documentation site for the mols-generator app.         |
 | [room-squares](https://room-squares.netlify.app/)                       | A bibliography about Room squares.                     |
  
-## Languages
+## Languages (1)
 
 | Repository                                           | Description                                              |
 | :--------------------------------------------------: | -------------------------------------------------------- |
