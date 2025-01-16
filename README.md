@@ -12,16 +12,16 @@ My sites.
 
 | Repository                                                              | Description                                                               |
 | :---------------------------------------------------------------------: | ------------------------------------------------------------------------- |
-| [bookmark-viewer](https://mhenderson.shinyapps.io/bookmark-viewer/)     | A Shiny app for browsing my bookmark collection.                          |
+| [bookmark-viewer](https://mhenderson.shinyapps.io/bookmark-viewer/)     | A Shiny app for browsing a bookmark collection.                           |
 | [coco-explorer](https://mhenderson.shinyapps.io/coco-explorer/)         | Explore co-occurrences in corpora.                                        |
 | [concordance](https://mhenderson.shinyapps.io/concordance/)             | Concordance dashboard app.                                                |
 | [energy-use-mobile](https://mhenderson.shinyapps.io/energy-use-mobile/) | A mobile version of the energy-use dashboard.                             |
-| [energy-use](https://mhenderson.shinyapps.io/energy-use/)               | A Shiny app for viewing my energy usage.                                  |
-| [mjh-energy-data](https://mjh-energy-data.netlify.app/)                 | My energy data.                                                           |
-| [mjhdata](https://mjhdata.netlify.app/)                                 | My homepage and blog.                                                     |
-| [mjhdataviz](https://mjhdataviz.netlify.app/)                           | A gallery of my data visualisation work.                                  |
-| [quotations-viewer](https://mhenderson.shinyapps.io/quotations-viewer/) | Browse quotations from books I've read.                                   |
-| [reading-dashboard](http://rpubs.com/mhenderson/reading-dashboard)      | A dashboard visualisation of the books I've read over the last few years. |
+| [energy-use](https://mhenderson.shinyapps.io/energy-use/)               | A Shiny app for viewing energy usage.                                     |
+| [mjh-energy-data](https://mjh-energy-data.netlify.app/)                 | An energy data set.                                                       |
+| [mjhdata](https://mjhdata.netlify.app/)                                 | Homepage and blog.                                                        |
+| [mjhdataviz](https://mjhdataviz.netlify.app/)                           | A gallery of data visualisation work.                                     |
+| [quotations-viewer](https://mhenderson.shinyapps.io/quotations-viewer/) | Browse quotations from books.                                             |
+| [reading-dashboard](http://rpubs.com/mhenderson/reading-dashboard)      | A reading list dashboard.                                                 |
 | [shinylive-demo](https://mhenderson.github.io/shinylive-demo/)          | Hello, World for shinylive.                                               |
 
 ## Mathematics (4)
