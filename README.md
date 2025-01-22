@@ -1,17 +1,17 @@
-# sites (17)
+# sites (18)
 
 My sites.
 
 ## AI (1)
 
 | Repository                                           | Description                                              |
-| :--------------------------------------------------: | -------------------------------------------------------- |
+| ---------------------------------------------------: | :------------------------------------------------------- |
 | [haiku-ai](https://fossil-harvest-mambo.glitch.me/)  | Broken, simplest possible ChatGPT wrapper crap.          |
 
-## Data Science (11)
+## Data Science (12)
 
 | Repository                                                              | Description                                                               |
-| :---------------------------------------------------------------------: | ------------------------------------------------------------------------- |
+| ----------------------------------------------------------------------: | :------------------------------------------------------------------------ |
 | [bookmark-viewer](https://mhenderson.shinyapps.io/bookmark-viewer/)     | A Shiny app for browsing a bookmark collection.                           |
 | [coco-explorer](https://mhenderson.shinyapps.io/coco-explorer/)         | Explore co-occurrences in corpora.                                        |
 | [concordance](https://mhenderson.shinyapps.io/concordance/)             | Concordance dashboard app.                                                |
@@ -23,11 +23,12 @@ My sites.
 | [quotations-viewer](https://mhenderson.shinyapps.io/quotations-viewer/) | Browse quotations from books.                                             |
 | [reading-dashboard](http://rpubs.com/mhenderson/reading-dashboard)      | A reading list dashboard.                                                 |
 | [shinylive-demo](https://mhenderson.github.io/shinylive-demo/)          | Hello, World for shinylive.                                               |
+| [tidy-tuesday](https://mhenderson.github.io/tidy-tuesday/)              | My Tidy Tuesday gallery.                                                  |
 
 ## Mathematics (4)
 
 | Repository                                                              | Description                                            |
-| :---------------------------------------------------------------------: | ------------------------------------------------------ |
+| ----------------------------------------------------------------------: | :----------------------------------------------------- |
 | [coding-with-graphs](https://coding-with-graphs.netlify.app/)           | An old blog site.                                      |
 | [graphs-collection](http://mhenderson.github.io/graphs-collection/)     | A collection of graphs in a variety of formats.        |
 | [mols-generator](https://mols-generator.netlify.app/)                   | Documentation site for the mols-generator app.         |
@@ -36,6 +37,6 @@ My sites.
 ## Languages (1)
 
 | Repository                                           | Description                                              |
-| :--------------------------------------------------: | -------------------------------------------------------- |
+| ---------------------------------------------------: | :------------------------------------------------------- |
 | [bonho](https://bonho.netlify.app/)                  | A Korean numbers learning app.                           |
 
