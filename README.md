@@ -23,6 +23,7 @@ My sites.
 | [quotations-viewer](https://mhenderson.shinyapps.io/quotations-viewer/) | Browse quotations from books.                                             |
 | [reading-dashboard](http://rpubs.com/mhenderson/reading-dashboard)      | A reading list dashboard.                                                 |
 | [shinylive-demo](https://mhenderson.github.io/shinylive-demo/)          | Hello, World for shinylive.                                               |
+| [tidy-tuesday](https://mhenderson.github.io/tidy-tuesday/)              | My Tidy Tuesday gallery.                                                  |
 
 ## Mathematics (4)
 
