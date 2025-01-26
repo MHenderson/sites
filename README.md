@@ -1,4 +1,4 @@
-# sites (18)
+# sites (22)
 
 My sites.
 
@@ -8,7 +8,9 @@ My sites.
 | ---------------------------------------------------: | :------------------------------------------------------- |
 | [haiku-ai](https://fossil-harvest-mambo.glitch.me/)  | Broken, simplest possible ChatGPT wrapper crap.          |
 
-## Data Science (12)
+## Data Science (16)
+
+### Apps
 
 | Repository                                                              | Description                                                               |
 | ----------------------------------------------------------------------: | :------------------------------------------------------------------------ |
@@ -17,13 +19,27 @@ My sites.
 | [concordance](https://mhenderson.shinyapps.io/concordance/)             | Concordance dashboard app.                                                |
 | [energy-use-mobile](https://mhenderson.shinyapps.io/energy-use-mobile/) | A mobile version of the energy-use dashboard.                             |
 | [energy-use](https://mhenderson.shinyapps.io/energy-use/)               | A Shiny app for viewing energy usage.                                     |
-| [mjh-energy-data](https://mjh-energy-data.netlify.app/)                 | An energy data set.                                                       |
-| [mjhdata](https://mjhdata.netlify.app/)                                 | Homepage and blog.                                                        |
-| [mjhdataviz](https://mjhdataviz.netlify.app/)                           | A gallery of data visualisation work.                                     |
 | [quotations-viewer](https://mhenderson.shinyapps.io/quotations-viewer/) | Browse quotations from books.                                             |
 | [reading-dashboard](http://rpubs.com/mhenderson/reading-dashboard)      | A reading list dashboard.                                                 |
 | [shinylive-demo](https://mhenderson.github.io/shinylive-demo/)          | Hello, World for shinylive.                                               |
-| [tidy-tuesday](https://mhenderson.github.io/tidy-tuesday/)              | My Tidy Tuesday gallery.                                                  |
+
+### Miscellaneous
+
+| Repository                                                              | Description                                                               |
+| ----------------------------------------------------------------------: | :------------------------------------------------------------------------ |
+| [mjh-energy-data](https://mjh-energy-data.netlify.app/)                 | An energy data set.                                                       |
+| [mjhdata](https://mjhdata.netlify.app/)                                 | Homepage and blog.                                                        |
+
+### Visualisation
+
+| Repository                                                                            | Description                              |
+| ------------------------------------------------------------------------------------: | :--------------------------------------- |
+| [mjhdataviz](https://mjhdataviz.netlify.app/)                                         | A gallery of data visualisation work.    |
+| [tidy-tuesday](https://mhenderson.github.io/tidy-tuesday/)                            | My Tidy Tuesday gallery.                 |
+| [tt-replicating-plots-in-r](https://mhenderson.github.io/tt-replicating-plots-in-r/)  | Tidy Tuesday for week 50 of 2019.        |
+| [tt-tornadoes](https://mhenderson.github.io/tt-tornadoes/)                            | Tidy Tuesday for week 20 of 2023.        |
+| [tt-ultra-trail-running](https://mhenderson.github.io/tt-ultra-trail-running/)        | Tidy Tuesday for week 43 of 2021.        |
+| [tt-volcanoes](https://mhenderson.github.io/tt-volcanoes/)                            | Tidy Tuesday for week 20 of 2020.        |
 
 ## Mathematics (4)
 
