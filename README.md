@@ -1,4 +1,4 @@
-# sites (18)
+# sites (22)
 
 My sites.
 
@@ -8,7 +8,9 @@ My sites.
 | ---------------------------------------------------: | :------------------------------------------------------- |
 | [haiku-ai](https://fossil-harvest-mambo.glitch.me/)  | Broken, simplest possible ChatGPT wrapper crap.          |
 
-## Data Science (12)
+## Data Science (16)
+
+### Apps
 
 | Repository                                                              | Description                                                               |
 | ----------------------------------------------------------------------: | :------------------------------------------------------------------------ |
@@ -17,11 +19,16 @@ My sites.
 | [concordance](https://mhenderson.shinyapps.io/concordance/)             | Concordance dashboard app.                                                |
 | [energy-use-mobile](https://mhenderson.shinyapps.io/energy-use-mobile/) | A mobile version of the energy-use dashboard.                             |
 | [energy-use](https://mhenderson.shinyapps.io/energy-use/)               | A Shiny app for viewing energy usage.                                     |
-| [mjh-energy-data](https://mjh-energy-data.netlify.app/)                 | An energy data set.                                                       |
-| [mjhdata](https://mjhdata.netlify.app/)                                 | Homepage and blog.                                                        |
 | [quotations-viewer](https://mhenderson.shinyapps.io/quotations-viewer/) | Browse quotations from books.                                             |
 | [reading-dashboard](http://rpubs.com/mhenderson/reading-dashboard)      | A reading list dashboard.                                                 |
 | [shinylive-demo](https://mhenderson.github.io/shinylive-demo/)          | Hello, World for shinylive.                                               |
+
+### Misc
+
+| Repository                                                              | Description                                                               |
+| ----------------------------------------------------------------------: | :------------------------------------------------------------------------ |
+| [mjh-energy-data](https://mjh-energy-data.netlify.app/)                 | An energy data set.                                                       |
+| [mjhdata](https://mjhdata.netlify.app/)                                 | Homepage and blog.                                                        |
 
 ### Visualisation
 
