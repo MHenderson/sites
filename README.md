@@ -23,7 +23,7 @@ My sites.
 | [reading-dashboard](http://rpubs.com/mhenderson/reading-dashboard)      | A reading list dashboard.                                                 |
 | [shinylive-demo](https://mhenderson.github.io/shinylive-demo/)          | Hello, World for shinylive.                                               |
 
-### Misc
+### Miscellaneous
 
 | Repository                                                              | Description                                                               |
 | ----------------------------------------------------------------------: | :------------------------------------------------------------------------ |
