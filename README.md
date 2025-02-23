@@ -1,7 +1,3 @@
-# sites (22)
-
-My sites.
-
 ## AI (1)
 
 | Repository                                           | Description                                              |
@@ -56,3 +52,4 @@ My sites.
 | ---------------------------------------------------: | :------------------------------------------------------- |
 | [bonho](https://bonho.netlify.app/)                  | A Korean numbers learning app.                           |
 
+(22)
