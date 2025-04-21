@@ -4,7 +4,7 @@
 | ---------------------------------------------------: | :------------------------------------------------------- |
 | [haiku-ai](https://fossil-harvest-mambo.glitch.me/)  | Broken, simplest possible ChatGPT wrapper crapplication. |
 
-## Data Science (16)
+## Data Science (15)
 
 ### Apps
 
@@ -69,4 +69,6 @@
 | [mjhphoto](https://mhenderson.github.io/mjhphoto/)        | Photography homeapage.  |
 
 <hr>
+
+1 + 15 + 4 + 1 + 1 + 5 = 27
 
